@@ -67,3 +67,20 @@ this in the[./.github/workflows/lint.yml](./.github/workflows/lint.yml) file.
 If the linting fails, you will not be able to merge the PR. You can double check
 that your code will pass before pushing by running any of the tests listed above
 locally.
+
+## Site Creation
+
+### Requirements
+
+- you must have an issue in GitHub for each task you are going to work on.
+- you must create a new branch for each issue you work on.
+- when you have completed the work for the issue, and are ready to merge it into
+  the main branch, push your changes to GitHub, and then create a pull request
+  and assign someone else to review/approve your changes.
+
+### Step 1 - Create a markdown file for each team member.
+
+There is a file named `team.md` that should contain a link to a markdown file
+for each team member. I have included `anne.md` as an example.
+
+### Step 2 - Create the news site, following the directions in [SPEC.md](SPEC.md).
